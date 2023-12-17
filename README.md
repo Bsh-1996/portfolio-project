@@ -1,1 +1,1 @@
-SQL queries on some covid dataset
+SQL queries on a covid dataset/ data exploration
